@@ -1,8 +1,8 @@
-**Sources et types de données numériques en ligne pour le diagnostic territorial**
+***Sources et types de données numériques en ligne pour le diagnostic territorial***
 
 
 
-​	**→** **Rester critique**, se demander d'où proviennent les données : type d’organisme, type d'enquête, transformations réalisées (surtout lorsque l'on travaille avec des données fines : sur un petit périmètre géographique ou une thématique étroite). Même avec des fournisseurs publics, officiels, il peut y avoir de grandes variations de qualité.
+**→ Rester critique**, se demander d'où proviennent les données : type d’organisme, type d'enquête, transformations réalisées (surtout lorsque l'on travaille avec des données fines : sur un petit périmètre géographique ou une thématique étroite). Même avec des fournisseurs publics, officiels, il peut y avoir de grandes variations de qualité.
 
 
 
@@ -53,7 +53,7 @@
 
 
 
-​	**France Découverte (géoclip), atlas statistique interactif**
+​	**France Découverte (géoclip), atlas statistique interactif généraliste**
 
 - https://france-decouverte.geoclip.fr/
 
@@ -62,15 +62,8 @@
 ​	**Moteurs de recherches de données**
 
 - OpenDataSoft : https://data.opendatasoft.com/
-- 
-
-
-
-​	**Veille sur les données ouvertes**
-
-- Team OpenData : https://teamopendata.org/
-- OpenDataFrance (association) + veille  : https://www.opendatafrance.net/
-
+- Google Dataset : https://datasetsearch.research.google.com/
+- Statista : https://fr.statista.com/
 
 
 ​	**Données sociales, sur l’emploi et de santé**
@@ -95,14 +88,12 @@
 - Recensement agricole Agreste 2020 : [https://stats.agriculture.gouv.fr/cartostat/](https://stats.agriculture.gouv.fr/cartostat/#c=home)
 - Mutualité Sociale Agricole : https://geomsa.msa.fr/
 
+
 ​	**Données locales**
 
 - OpenData d'Occitanie : [https://data.laregion.fr/](http://www.opendatalab.fr/)
 - Portail cartographique + données Occitanie : https://www.picto-occitanie.fr/
 - Open-Data départemental 31 : https://data.haute-garonne.fr
-
-​	Données spécifiques : les risques naturels, des comptages routiers, les collèges.
-
 - Agence Ingénierie 31 : https://www.atd31.fr/fr/conseiller-et-assister/observatoire-des-territoires.html
 - Open-Data Toulouse Métropole : https://data.toulouse-metropole.fr
 - Portail carto. de l’AUAT : https://geoclip.aua-toulouse.org/
@@ -115,6 +106,13 @@
 - BANATIC : https://www.banatic.interieur.gouv.fr (fiches juridiques par CC).
 - Ministère de l'Intérieur, DGCL : https://www.collectivites-locales.gouv.fr/etudes-et-statistiques-locales
 - **Les comptes des collectivités** : https://www.impots.gouv.fr/cll/zf1/communegfp/flux.ex?_flowId=accueilcclloc-flow&=&refererExecution=e3s6&pagerecherche=communesgroupement
+
+
+
+​	**Veille sur les données ouvertes**
+
+- Team OpenData : https://teamopendata.org/
+- OpenDataFrance (association) + veille  : https://www.opendatafrance.net/
 
 
 **Fonds de carte et données cartographiques**
