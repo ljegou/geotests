@@ -89,9 +89,10 @@
 - Mutualité Sociale Agricole : https://geomsa.msa.fr/
 
 
-​	**Données locales**
+​	**Données locales Occitanie / Haute-Garonne / Toulouse**
 
 - OpenData d'Occitanie : [https://data.laregion.fr/](http://www.opendatalab.fr/)
+- IDS Régionale OpenIG : https://www.openig.org/
 - Portail cartographique + données Occitanie : https://www.picto-occitanie.fr/
 - Open-Data départemental 31 : https://data.haute-garonne.fr
 - Agence Ingénierie 31 : https://www.atd31.fr/fr/conseiller-et-assister/observatoire-des-territoires.html
