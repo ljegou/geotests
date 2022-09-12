@@ -119,6 +119,7 @@
 **Fonds de carte et données cartographiques**
 
 - Géoportail IGN (cartes topo, photo. aériennes anciennes et récentes, cadastre, agriculture) : https://www.geoportail.gouv.fr/
+- Ma Carte IGN (dessin personnnalisé sur les fonds du GéoPortail) : https://macarte.ign.fr/
 - Géo-OpenData.gouv (alimentation stoppée en 2021) : https://geo.data.gouv.fr/fr/
 - Le GéoCatalogue National (données INSPIRE nationales moissonnées automatiquement) : https://www.geocatalogue.fr/
 - Géoportail de l'Urbanisme (cartes des PLU + règlements) : http://www.geoportail-urbanisme.gouv.fr/map/
