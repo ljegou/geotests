@@ -1,6 +1,6 @@
 ***Sources et types de données numériques en ligne pour le diagnostic territorial***
-*Travail en cours*
 
+*Travail en cours*
 
 
 **→ Rester critique**, se demander d'où proviennent les données : type d’organisme, type d'enquête, transformations réalisées (surtout lorsque l'on travaille avec des données fines : sur un petit périmètre géographique ou une thématique étroite). Même avec des fournisseurs publics, officiels, il peut y avoir de grandes variations de qualité.
@@ -50,7 +50,6 @@
 - Balances comptables des communes : http://www.data.gouv.fr/fr/datasets/balances-comptables-des-communes/
 - Données comptables et fiscales des communes et EPCI : https://www.data.gouv.fr/fr/datasets/donnees-comptables-et-fiscales-des-collectivites-locales/
 - Permis construire autorisés et chantiers commencés : https://www.data.gouv.fr/fr/datasets/statistiques-sur-les-permis-de-construire-pc-permis-damenager-pa-et-declaration-prealable-dp-base-sitadel/
-- Données géographiques (spatialisées) : https://geo.data.gouv.fr/fr/
 
 
 
@@ -119,6 +118,8 @@
 **Fonds de carte et données cartographiques**
 
 - Géoportail IGN (cartes topo, photo. aériennes anciennes et récentes, cadastre, agriculture) : https://www.geoportail.gouv.fr/
+- Géo-OpenData.gouv (alimentation stoppée en 2021) : https://geo.data.gouv.fr/fr/
+- Le GéoCatalogue National (données INSPIRE nationales moissonnées automatiquement) : https://www.geocatalogue.fr/
 - Géoportail de l'Urbanisme (cartes des PLU + règlements) : http://www.geoportail-urbanisme.gouv.fr/map/
 - DREAL Occitanie : http://www.occitanie.developpement-durable.gouv.fr/cartes-et-donnees-sig-r6096.html
 - Cadastre (PCI Vecteur au format GeoJSON, parcelles et bâtiments) : https://www.data.gouv.fr/fr/datasets/cadastre/
