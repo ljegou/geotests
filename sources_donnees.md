@@ -89,8 +89,9 @@
 - Observatoire des situations de fragilité : https://www.observatoires-fragilites-national.fr/
 - CartoPsy Occitanie : https://cartopsy.orsm-occitanie.fr/#c=home
 
-​	**Données culturelles, patrimoine**
-- http://data.culture.gouv.fr/pages/home/
+​	**Données culturelles, patrimoine, équipements sportifs**
+- Min. Culture : http://data.culture.gouv.fr/pages/home/
+- RES : https://www.data.gouv.fr/fr/datasets/recensement-des-equipements-sportifs-espaces-et-sites-de-pratiques/
 
 
 ​	**Monde agricole**
