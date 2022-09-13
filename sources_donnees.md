@@ -18,7 +18,9 @@
 - Outil d'exploration en ligne de la Base Permanente des Équipements : https://public.opendatasoft.com/explore/dataset/bpe-2018/ (attention, difficile de comparer des évolutions dans le temps sur la BPE).
 - Dossier sur le SICOVAL (chercher avec « CA du SICOVAL ») : https://www.insee.fr/fr/statistiques/zones/2011101?geo=EPCI-243100633&debut=0
 
+ ​	**INED** : démographie
 
+- Datalab : https://datalab.site.ined.fr/
 
 ​	**Observatoire des Territoires du CGET**
 
@@ -42,8 +44,14 @@
 - SNCF : https://data.sncf.com/
 - Risques naturels Géoidd : https://geoidd.developpement-durable.gouv.fr/
 - CEREMA : https://www.cerema.fr/fr/centre-ressources/open-data-cerema
-
-
+- OpenData Transport : http://transport.data.gouv.fr/
+- Sandre (hydrologie) : http://www.sandre.eaufrance.fr/
+- Inventaire forestier (IGN) : https://inventaire-forestier.ign.fr/
+- Demande de valeur foncière (activités immo) : http://app.dvf.etalab.gouv.fr
+- GéoLittoral : http://www.geolittoral.developpement-durable.gouv.fr/
+- GéoRisques : http://www.georisques.gouv.fr/
+- VigiBâti : http://vigibati.fr/
+- Demande de logement social : https://www.data.logement.gouv.fr/statistiques/
 
 ​	**Open-data gouvernemental : data.gouv.fr**
 
@@ -81,6 +89,8 @@
 - Observatoire des situations de fragilité : https://www.observatoires-fragilites-national.fr/
 - CartoPsy Occitanie : https://cartopsy.orsm-occitanie.fr/#c=home
 
+​	**Données culturelles, patrimoine**
+- http://data.culture.gouv.fr/pages/home/
 
 
 ​	**Monde agricole**
@@ -100,7 +110,9 @@
 - Portail carto. de l’AUAT : https://geoclip.aua-toulouse.org/
 - **Open-data SICOVAL :** [**https://data.sicoval.fr/**](https://data.sicoval.fr/)
 
-
+​	**Données locales territorales**
+- Observatoire des plateromes de l'AfiGéo : http://observatoire-des-plateformes.afigeo.asso.fr/index.php/annuaire-des-plateformes/pf-territoriales
+- Inventaire plus large (Airtable) : https://airtable.com/shrWxHPi2XjLu9xtM/tblwklJPsyayeH5lX
 
 ​	**Données admin., financières et fiscales par commune et EPCI**
 
@@ -116,8 +128,9 @@
 - OpenDataFrance (association) + veille  : https://www.opendatafrance.net/
 
 
-**Fonds de carte et données cartographiques**
+**Fonds de carte et données spatiales**
 
+- Portail gouvernemental : https://www.data.gouv.fr/fr/pages/donnees-geographiques/
 - Géoportail IGN (cartes topo, photo. aériennes anciennes et récentes, cadastre, agriculture) : https://www.geoportail.gouv.fr/
 - Ma Carte IGN (dessin personnnalisé sur les fonds du GéoPortail) : https://macarte.ign.fr/
 - Géo-OpenData.gouv (alimentation stoppée en 2021) : https://geo.data.gouv.fr/fr/
