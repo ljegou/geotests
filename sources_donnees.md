@@ -14,7 +14,7 @@
 - Recherche par périmètre géographique : https://insee.fr/fr/recherche/recherche-geographique?debut=0
 - Recherche par thématique : Démographie mais aussi Pouvoir d'achat, Conditions de Vie, Marché du travail, Entreprises et activités, Politiques d'Aménagement du Territoire (équipement, quartiers)… https://www.insee.fr/fr/statistiques?idfacette=1
 - Cartes interactives (avec exportation) : https://statistiques-locales.insee.fr
-- Présentation du Recensement RGP (on y reviendra plus longuement dans le module de diagnostic) : https://www.insee.fr/fr/information/2383265
+- Présentation du Recensement (on y reviendra plus longuement dans le module de diagnostic) : https://www.insee.fr/fr/information/2383265
 - Outil d'exploration en ligne de la Base Permanente des Équipements : https://public.opendatasoft.com/explore/dataset/bpe-2018/ (attention, difficile de comparer des évolutions dans le temps sur la BPE).
 - Dossier sur le SICOVAL (chercher avec « CA du SICOVAL ») : https://www.insee.fr/fr/statistiques/zones/2011101?geo=EPCI-243100633&debut=0
 
@@ -22,7 +22,7 @@
 
 - Datalab : https://datalab.site.ined.fr/
 
-​	**Observatoire des Territoires du CGET**
+​	**Observatoire des Territoires de l'ANCT**
 
 ​	[http://www.observatoire-des-territoires.gouv.fr](http://www.observatoire-des-territoires.gouv.fr/observatoire-des-territoires/fr/node)
 
@@ -76,27 +76,31 @@
 
 ​	**Données sociales, sur l’emploi et de santé**
 
-- Caisse d'Allocations Familiales : Atlas en ligne : http://www.sig-cafmipy.fr/
-   (enfants en bas âge, aides aux familles et à la personne)
+- Open Data CAF : http://data.caf.fr/site/
+- Caisse d'Allocations Familiales Midi-Pyrénées : Atlas en ligne : http://www.sig-cafmipy.fr/ (enfants en bas âge, aides aux familles et à la personne)
 - Ministère, DREES : https://data.drees.solidarites-sante.gouv.fr/explore/
 - Chômage, Pôle Emploi : https://www.pole-emploi.org/statistiques-analyses/en-savoir/accedez-a-nos-donnees/demandeurs-demploi-par-epci.html?type=article
 - Chômage par commune, DARES : https://dares.travail-emploi.gouv.fr/donnees/les-demandeurs-demploi-inscrits-pole-emploi-donnees-communales
 - Géodes, Santé Publique France : https://geodes.santepubliquefrance.fr/#c=home
 - CartoSanté, AtlaSanté, ARS : https://cartosante.atlasante.fr/#c=home
-- Consommation de la consommation / production de soins : https://cartographie.atih.sante.fr/#c=home
+- Sirse : base de données socio-sanitaires et environnementales territorialisée : https://sirse.atlasante.fr
+- Consommation de la consultation / production de soins : https://cartographie.atih.sante.fr/#c=home
 - Démographie des médecins : https://demographie.medecin.fr/#c=home
 - Obs. territorial du Sport et de la Jeunesse : https://carto-stats.injep.fr/
 - Observatoire des situations de fragilité : https://www.observatoires-fragilites-national.fr/
+- Atlas de la santé mentale : https://santementale.atlasante.fr
 - CartoPsy Occitanie : https://cartopsy.orsm-occitanie.fr/#c=home
 
 ​	**Données culturelles, patrimoine, équipements sportifs**
 - Min. Culture : http://data.culture.gouv.fr/pages/home/
 - RES : https://www.data.gouv.fr/fr/datasets/recensement-des-equipements-sportifs-espaces-et-sites-de-pratiques/
+- Observatoire de la lecture publique : https://olp.culture.fr
 
 
 ​	**Monde agricole**
 
 - Recensement agricole Agreste 2020 : [https://stats.agriculture.gouv.fr/cartostat/](https://stats.agriculture.gouv.fr/cartostat/#c=home)
+- VizAgreste : https://vizagreste.agriculture.gouv.fr/
 - Mutualité Sociale Agricole : https://geomsa.msa.fr/
 
 
@@ -109,6 +113,11 @@
 - Agence Ingénierie 31 : https://www.atd31.fr/fr/conseiller-et-assister/observatoire-des-territoires.html
 - Open-Data Toulouse Métropole : https://data.toulouse-metropole.fr
 - Portail carto. de l’AUAT : https://geoclip.aua-toulouse.org/
+- Observatoire de l'AU de Nîmes : http://observatoire.audrna.com/
+- Observatoire des fragilités Grand Sud (Carsats) : https://www.observatoires-fragilites-grand-sud.fr
+
+Observatoire du Gers
+https://observatoire.gers.fr
 - **Open-data SICOVAL :** [**https://data.sicoval.fr/**](https://data.sicoval.fr/)
 
 ​	**Données locales territorales**
@@ -120,6 +129,7 @@
 - BANATIC : https://www.banatic.interieur.gouv.fr (fiches juridiques par CC).
 - Ministère de l'Intérieur, DGCL : https://www.collectivites-locales.gouv.fr/etudes-et-statistiques-locales
 - **Les comptes des collectivités** : https://www.impots.gouv.fr/cll/zf1/communegfp/flux.ex?_flowId=accueilcclloc-flow&=&refererExecution=e3s6&pagerecherche=communesgroupement
+- Observatoire des finances et de la gestion publique locales : https://data.ofgl.fr/explore/?exclude.theme=INTERNE&sort=title
 
 
 
@@ -142,3 +152,4 @@
 - OpenStreetMap (données SIG libres, participatives) : https://www.openstreetmap.org
 - Dessin de cartes personnalisée avec OSM : https://umap.openstreetmap.fr/
 - Idem, avec des calques et des filtres : https://gogocarto.fr/
+- Anciens contours admins, tirés d'OSM : https://osm13.openstreetmap.fr/~cquest/openfla/export/
