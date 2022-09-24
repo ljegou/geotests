@@ -106,7 +106,7 @@
 
 ​	**Données locales Occitanie / Haute-Garonne / Toulouse**
 
-- OpenData d'Occitanie : [https://data.laregion.fr/](http://www.opendatalab.fr/)
+- OpenData d'Occitanie : [https://data.laregion.fr/pages/accueil/](https://data.laregion.fr/pages/accueil/)
 - IDS Régionale OpenIG : https://www.openig.org/
 - Portail cartographique + données Occitanie : https://www.picto-occitanie.fr/
 - Open-Data départemental 31 : https://data.haute-garonne.fr
