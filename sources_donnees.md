@@ -153,3 +153,8 @@ https://observatoire.gers.fr
 - Dessin de cartes personnalisée avec OSM : https://umap.openstreetmap.fr/
 - Idem, avec des calques et des filtres : https://gogocarto.fr/
 - Anciens contours admins, tirés d'OSM : https://osm13.openstreetmap.fr/~cquest/openfla/export/
+
+** Cartographie des équipements**
+- OpenStreetMap Data : https://demo.openstreetmap.fr/map
+- Équipements Sportifs : http://www.res.sports.gouv.fr/
+- 
