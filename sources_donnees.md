@@ -115,9 +115,7 @@
 - Portail carto. de l’AUAT : https://geoclip.aua-toulouse.org/
 - Observatoire de l'AU de Nîmes : http://observatoire.audrna.com/
 - Observatoire des fragilités Grand Sud (Carsats) : https://www.observatoires-fragilites-grand-sud.fr
-
-Observatoire du Gers
-https://observatoire.gers.fr
+- Observatoire du Gers https://observatoire.gers.fr
 - **Open-data SICOVAL :** [**https://data.sicoval.fr/**](https://data.sicoval.fr/)
 
 ​	**Données locales territorales**
@@ -154,7 +152,6 @@ https://observatoire.gers.fr
 - Idem, avec des calques et des filtres : https://gogocarto.fr/
 - Anciens contours admins, tirés d'OSM : https://osm13.openstreetmap.fr/~cquest/openfla/export/
 
-** Cartographie des équipements**
+**Cartographie des équipements**
 - OpenStreetMap Data : https://demo.openstreetmap.fr/map
 - Équipements Sportifs : http://www.res.sports.gouv.fr/
-- 
