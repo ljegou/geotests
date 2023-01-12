@@ -53,6 +53,7 @@
 - GéoRisques : http://www.georisques.gouv.fr/
 - VigiBâti : http://vigibati.fr/
 - Demande de logement social : https://www.data.logement.gouv.fr/statistiques/
+- Observatoire National des Bâtiments (hauteur, âge, matériaux, perf. énergétique, prix...) : https://www.observatoire-national-batiments.fr/
 
 ​	**Open-data gouvernemental : data.gouv.fr**
 
