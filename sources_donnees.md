@@ -54,6 +54,8 @@
 - VigiBâti : http://vigibati.fr/
 - Demande de logement social : https://www.data.logement.gouv.fr/statistiques/
 - Observatoire National des Bâtiments (hauteur, âge, matériaux, perf. énergétique, prix...) : https://www.observatoire-national-batiments.fr/
+- Observatoire National de l'Artificialisation des Sols : https://artificialisation.developpement-durable.gouv.fr
+- Données de suivi de la consommation des espaces fonciers : https://artificialisation.developpement-durable.gouv.fr/suivi-consommation-espaces-naf
 
 ​	**Open-data gouvernemental : data.gouv.fr**
 
