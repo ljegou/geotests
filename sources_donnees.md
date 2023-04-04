@@ -132,6 +132,7 @@
 - Ministère de l'Intérieur, DGCL : https://www.collectivites-locales.gouv.fr/etudes-et-statistiques-locales
 - **Les comptes des collectivités** : https://www.impots.gouv.fr/cll/zf1/communegfp/flux.ex?_flowId=accueilcclloc-flow&=&refererExecution=e3s6&pagerecherche=communesgroupement
 - Observatoire des finances et de la gestion publique locales : https://data.ofgl.fr/explore/?exclude.theme=INTERNE&sort=title
+- Cartes et données de l'Observatoire des Finances et de la Gestion publique Locale : https://data.ofgl.fr/pages/cartographie/
 
 
 
