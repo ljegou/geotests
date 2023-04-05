@@ -31,10 +31,9 @@
 - **Accès par la cartographie** : https://www.observatoire-des-territoires.gouv.fr/outils/cartographie-interactive/#c=home
 
 
-
 ​	**Intérêt :** voir les données dans leur *contexte* *géographique* (ie. avec les territoires autour de la zone d'étude), pouvoir télécharger les fichiers de données déjà filtrés sur le territoire, réaliser des brouillons de cartes rapidement.
 
-
+** Données de population 2021 en Europe, carto. interazctive d'Eurostat : ** : https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_and_housing_census_2021_-_population_grids#Eurostat%20#StatisticsExplained
 
 ​	**Développement durable, énergie, logement, transports**
 
@@ -120,7 +119,7 @@
 - Observatoire de l'AU de Nîmes : http://observatoire.audrna.com/
 - Observatoire des fragilités Grand Sud (Carsats) : https://www.observatoires-fragilites-grand-sud.fr
 - Observatoire du Gers https://observatoire.gers.fr
-- **Open-data SICOVAL :** [**https://data.sicoval.fr/**](https://data.sicoval.fr/)
+- Open-data du SICOVAL : [**https://data.sicoval.fr/**](https://data.sicoval.fr/)
 
 ​	**Données locales territorales**
 - Observatoire des plateromes de l'AfiGéo : http://observatoire-des-plateformes.afigeo.asso.fr/index.php/annuaire-des-plateformes/pf-territoriales
