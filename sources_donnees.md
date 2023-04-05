@@ -33,7 +33,7 @@
 
 ​	**Intérêt :** voir les données dans leur *contexte* *géographique* (ie. avec les territoires autour de la zone d'étude), pouvoir télécharger les fichiers de données déjà filtrés sur le territoire, réaliser des brouillons de cartes rapidement.
 
-​	**Données de population 2021 en Europe, carto. interazctive d'Eurostat :** : https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_and_housing_census_2021_-_population_grids#Eurostat%20#StatisticsExplained
+​	**Données de population 2021 en Europe, carto. interactive d'Eurostat :** : https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_and_housing_census_2021_-_population_grids#Eurostat%20#StatisticsExplained
 
 ​	**Développement durable, énergie, logement, transports**
 
