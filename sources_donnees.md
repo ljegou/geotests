@@ -33,7 +33,8 @@
 
 ​	**Intérêt :** voir les données dans leur *contexte* *géographique* (ie. avec les territoires autour de la zone d'étude), pouvoir télécharger les fichiers de données déjà filtrés sur le territoire, réaliser des brouillons de cartes rapidement.
 
-​	**Données de population 2021 en Europe, carto. interactive d'Eurostat :** : https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_and_housing_census_2021_-_population_grids#Eurostat%20#StatisticsExplained
+​	**Données de population 2021 par grille de recensement en Europe, carto. interactive d'Eurostat :** : https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_and_housing_census_2021_-_population_grids#Eurostat%20#StatisticsExplained
+
 
 ​	**Développement durable, énergie, logement, transports**
 
@@ -60,7 +61,7 @@
 
 - Balances comptables des communes : http://www.data.gouv.fr/fr/datasets/balances-comptables-des-communes/
 - Données comptables et fiscales des communes et EPCI : https://www.data.gouv.fr/fr/datasets/donnees-comptables-et-fiscales-des-collectivites-locales/
-- Permis construire autorisés et chantiers commencés : https://www.data.gouv.fr/fr/datasets/statistiques-sur-les-permis-de-construire-pc-permis-damenager-pa-et-declaration-prealable-dp-base-sitadel/
+- Permis de construire autorisés et chantiers commencés : https://www.data.gouv.fr/fr/datasets/statistiques-sur-les-permis-de-construire-pc-permis-damenager-pa-et-declaration-prealable-dp-base-sitadel/
 
 
 
@@ -89,14 +90,14 @@
 - Sirse : base de données socio-sanitaires et environnementales territorialisée : https://sirse.atlasante.fr
 - Consommation de la consultation / production de soins : https://cartographie.atih.sante.fr/#c=home
 - Démographie des médecins : https://demographie.medecin.fr/#c=home
-- Obs. territorial du Sport et de la Jeunesse : https://carto-stats.injep.fr/
+- Observatoire territorial du Sport et de la Jeunesse : https://carto-stats.injep.fr/
 - Observatoire des situations de fragilité : https://www.observatoires-fragilites-national.fr/
 - Atlas de la santé mentale : https://santementale.atlasante.fr
 - CartoPsy Occitanie : https://cartopsy.orsm-occitanie.fr/#c=home
 
 ​	**Données culturelles, patrimoine, équipements sportifs**
 - Min. Culture : http://data.culture.gouv.fr/pages/home/
-- RES : https://www.data.gouv.fr/fr/datasets/recensement-des-equipements-sportifs-espaces-et-sites-de-pratiques/
+- Recensement des Équipements Sportifs : https://www.data.gouv.fr/fr/datasets/recensement-des-equipements-sportifs-espaces-et-sites-de-pratiques/
 - Observatoire de la lecture publique : https://olp.culture.fr
 
 
