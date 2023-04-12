@@ -144,6 +144,9 @@
 
 **Fonds de carte et données spatiales**
 
+- http://geolode.org/ Un catalogue de plus de 800 sources, proposées par le projet GeoLode issu du FOSS4G 2014.
+- http://freegisdata.rtwilson.com/ Plus de 500 sources classées, proposées par R. Wilson.
+- http://data.opengeoportal.org/ Le catalogue du projet Open GeoPortal, plus de 64 000 sources au niveau mondial, avec une interface de recherche et de téléchargement.
 - Portail gouvernemental : https://www.data.gouv.fr/fr/pages/donnees-geographiques/
 - Géoportail IGN (cartes topo, photo. aériennes anciennes et récentes, cadastre, agriculture) : https://www.geoportail.gouv.fr/
 - Ma Carte IGN (dessin personnnalisé sur les fonds du GéoPortail) : https://macarte.ign.fr/
@@ -151,11 +154,14 @@
 - Le GéoCatalogue National (données INSPIRE nationales moissonnées automatiquement) : https://www.geocatalogue.fr/
 - Géoportail de l'Urbanisme (cartes des PLU + règlements) : http://www.geoportail-urbanisme.gouv.fr/map/
 - DREAL Occitanie : http://www.occitanie.developpement-durable.gouv.fr/cartes-et-donnees-sig-r6096.html
+- PICTO Occitanie (Services de l'État) : https://www.picto-occitanie.fr/
 - Cadastre (PCI Vecteur au format GeoJSON, parcelles et bâtiments) : https://www.data.gouv.fr/fr/datasets/cadastre/
 - OpenStreetMap (données SIG libres, participatives) : https://www.openstreetmap.org
 - Dessin de cartes personnalisée avec OSM : https://umap.openstreetmap.fr/
 - Idem, avec des calques et des filtres : https://gogocarto.fr/
 - Anciens contours admins, tirés d'OSM : https://osm13.openstreetmap.fr/~cquest/openfla/export/
+- http://gadm.org Global Admin, des fonds de carte politiques de tous les pays du monde, avec différents niveaux administratifs.
+- http://www.naturalearthdata.com Natural Earth Data, des fonds de carte mondiaux de référence, avec plusieurs niveaux de généralisation (simplification) et des fonds d'habillage (relief, bathymétrie).
 
 **Cartographie des équipements**
 - OpenStreetMap Data : https://demo.openstreetmap.fr/map
