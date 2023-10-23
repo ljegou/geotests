@@ -56,6 +56,7 @@
 - Observatoire National des Bâtiments (hauteur, âge, matériaux, perf. énergétique, prix...) : https://www.observatoire-national-batiments.fr/
 - Observatoire National de l'Artificialisation des Sols : https://artificialisation.developpement-durable.gouv.fr
 - Données de suivi de la consommation des espaces fonciers : https://artificialisation.developpement-durable.gouv.fr/suivi-consommation-espaces-naf
+- Données sur la géologie et les sols du BRGM : https://infoterre.brgm.fr/rechercher/search.htm
 
 ​	**Open-data gouvernemental : data.gouv.fr**
 
