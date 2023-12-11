@@ -36,7 +36,7 @@
 ​	**Données de population 2021 par grille de recensement en Europe, carto. interactive d'Eurostat :** : https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_and_housing_census_2021_-_population_grids#Eurostat%20#StatisticsExplained
 
 
-​	**Développement durable, énergie, logement, transports**
+​	**Développement durable, énergie, logement, transports, foncier**
 
 - Ministère TECT : https://www.statistiques.developpement-durable.gouv.fr/
 - Météo France : https://donneespubliques.meteofrance.fr/
@@ -57,6 +57,10 @@
 - Observatoire National de l'Artificialisation des Sols : https://artificialisation.developpement-durable.gouv.fr
 - Données de suivi de la consommation des espaces fonciers : https://artificialisation.developpement-durable.gouv.fr/suivi-consommation-espaces-naf
 - Données sur la géologie et les sols du BRGM : https://infoterre.brgm.fr/rechercher/search.htm
+- https://parcel-app.org/
+- https://map.onesoil.ai/2018?access#1.94/50.9/-45.5
+- https://crater.resiliencealimentaire.org/
+- https://land.copernicus.eu/en
 
 ​	**Open-data gouvernemental : data.gouv.fr**
 
