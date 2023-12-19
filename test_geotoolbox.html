@@ -1,32 +1,35 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charSet="utf-8"/>
-        <title>Test GeoToolbox filter HTML</title>
-        <script src="https://cdn.jsdelivr.net/npm/d3@7" charset="utf-8"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bertin" charset="utf-8"></script>
-        <script src="https://cdn.jsdelivr.net/npm/geotoolbox" charset="utf-8"></script>
-    </head>
-  <body>
+<head>
+	<meta charSet="utf-8"/>
+	<title>Test GeoToolbox filter HTML</title>
+	<script src="https://cdn.jsdelivr.net/npm/geotoolbox" charset="utf-8"></script>
+	<script src="https://cdn.jsdelivr.net/npm/d3@7" charset="utf-8"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bertin" charset="utf-8"></script>
+</head>
+<body>
     
-  </body>
-  <script>
-    let world = "https://raw.githubusercontent.com/neocarto/bertin/main/data/world.geojson";
-
-    d3.json(geojson).then((r) =>
-      document.body.appendChild(
-        bertin.draw({
-          params: {
-            projection: "VanDerGrinten4",
-            clip: true,
-          },
-          layers: [
-            { geojson: r, tooltip: ["$ISO3", "$NAMEen"] },
-            { type: "outline" },
-            { type: "graticule" },
-          ],
-        })
-      )
-    );    
-  </script>
-</html>
+</body>
+<script>
+	const fichier = "https://raw.githubusercontent.com/neocarto/bertin/main/data/world.geojson";
+	
+	d3.json(fichier).then(function(world) {
+		const newworld = geotoolbox.filter(world, (d) => d.ISO3 == "BRA");
+		document.body.appendChild(
+			bertin.draw({
+				params: {
+					projection: "VanDerGrinten4",
+					clip: true,
+				},
+				layers: [
+					{ geojson: newworld, fill: "#6a8aba"},
+					{ geojson: world, fill: "#CCC", tooltip: ["$ISO3", "$NAMEen"] },
+					{ type: "outline" },
+					{ type: "graticule" },
+				],
+			})
+		)
+	});
+	
+	</script>
+	</html>
