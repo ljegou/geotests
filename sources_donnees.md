@@ -61,6 +61,7 @@
 - https://map.onesoil.ai/2018?access#1.94/50.9/-45.5
 - https://crater.resiliencealimentaire.org/
 - https://land.copernicus.eu/en
+- Open Data Réseaux-Énergies (ODRÉ) : https://odre.opendatasoft.com/
 
 ​	**Open-data gouvernemental : data.gouv.fr**
 
