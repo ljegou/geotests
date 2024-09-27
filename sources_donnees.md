@@ -49,6 +49,7 @@
 - Inventaire forestier (IGN) : https://inventaire-forestier.ign.fr/
 - Demande de valeur foncière (activités immo) : http://app.dvf.etalab.gouv.fr
 - DVF en cartographie : https://www.efficity.com/prix-immobilier-m2/v_vigoulet-auzil_31320/
+- DVF plus du Céréma : https://datafoncier.cerema.fr/donnees/autres-donnees-foncieres/dvfplus-open-data
 - GéoLittoral : http://www.geolittoral.developpement-durable.gouv.fr/
 - GéoRisques : http://www.georisques.gouv.fr/
 - VigiBâti : http://vigibati.fr/
@@ -64,6 +65,10 @@
 - Open Data Réseaux-Énergies (ODRÉ) : https://odre.opendatasoft.com/
 - Documents d'urbanisme : https://docurba.beta.gouv.fr/
 - Transition écologique (beta) : https://ecospheres.netlify.app/
+- Données de transport et des mobilité : https://transport.data.gouv.fr/
+- Aménagements cyclables, GéoVélo : https://www.data.gouv.fr/fr/datasets/amenagements-cyclables-france-metropolitaine/
+- Qualité de l'eau du robinet: https://www.data.gouv.fr/fr/datasets/resultats-du-controle-sanitaire-de-leau-distribuee-commune-par-commune/#/resources
+- Inventaire des BDD sur l'urbanisme et le logement de l'ADEME : https://www.data.gouv.fr/fr/datasets/inventaire-des-bases-de-donnees-relatives-au-logement-et-a-lurbanisme/
 
 ​	**Open-data gouvernemental : data.gouv.fr**
 
@@ -73,7 +78,7 @@
 
 
 
-​	**France Découverte (géoclip), atlas statistique interactif généraliste**
+​	**France Découverte (Géoclip), atlas statistique interactif généraliste**
 
 - https://france-decouverte.geoclip.fr/
 
@@ -114,7 +119,7 @@
 - Recensement agricole Agreste 2020 : [https://stats.agriculture.gouv.fr/cartostat/](https://stats.agriculture.gouv.fr/cartostat/#c=home)
 - VizAgreste : https://vizagreste.agriculture.gouv.fr/
 - Mutualité Sociale Agricole : https://geomsa.msa.fr/
-
+- Pesticides, base ADONIS de SOLAGRO : https://solagro.org/nos-domaines-d-intervention/agroecologie/carte-pesticides-adonis
 
 ​	**Données locales Occitanie / Haute-Garonne / Toulouse**
 
@@ -170,6 +175,7 @@
 - Anciens contours admins, tirés d'OSM : https://osm13.openstreetmap.fr/~cquest/openfla/export/
 - http://gadm.org Global Admin, des fonds de carte politiques de tous les pays du monde, avec différents niveaux administratifs.
 - http://www.naturalearthdata.com Natural Earth Data, des fonds de carte mondiaux de référence, avec plusieurs niveaux de généralisation (simplification) et des fonds d'habillage (relief, bathymétrie).
+- OpenDataArchives (archivage des données de l'IGN, de cllectivités locales, par Ch. Priest) : https://files.opendatarchives.fr/
 
 **Cartographie des équipements**
 - OpenStreetMap Data : https://demo.openstreetmap.fr/map
